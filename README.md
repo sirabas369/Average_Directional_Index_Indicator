@@ -6,7 +6,7 @@ The ADX makes use of a positive (+DI) and negative (-DI) directional indicator i
 The trend has strength when ADX is above 25; the trend is weak or the price is trendless when ADX is below 20, according to Wilder.
 Non-trending doesn't mean the price isn't moving. It may not be, but the price could also be making a trend change or is too volatile for a clear direction to be present.
 
-<img width="404" alt="Screenshot 2022-11-30 024459" src="https://user-images.githubusercontent.com/106699115/204831439-cd681055-51cb-48c5-8ad7-f5ea642c01e1.png">
+<img width="433" alt="Screenshot 2022-11-30 202357" src="https://user-images.githubusercontent.com/106699115/204832368-fb4b0624-1401-45d0-b39d-3787c9cd4aea.png">
 
 # Results
 ![ADX_result](https://user-images.githubusercontent.com/106699115/204832089-10efc4c2-7d3e-4f5e-8b1d-0679a8fc7879.png)
